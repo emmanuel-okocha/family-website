@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#FAFAFA"/>
+  <rect x="120" y="80" width="560" height="440" rx="32" fill="#FFFFFF"/>
+  <circle cx="400" cy="250" r="110" fill="#D4AF37"/>
+  <circle cx="400" cy="240" r="85" fill="#6D4C41"/>
+  <rect x="270" y="350" width="260" height="120" rx="24" fill="#F8F5F2"/>
+  <rect x="305" y="380" width="190" height="18" rx="9" fill="#3E2723"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#333333">First Born</text>
+</svg>
